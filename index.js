@@ -1,8 +1,8 @@
 
 
 module.exports = {
-    name: 'core.tree',
-    dependencies: ['core.imports'],
+    name: 'core.plugin.tree',
+    dependencies: ['core.import.baobab'],
     init(def, done) {
         var core = this;
         var Baobab = core.imports.baobab;
