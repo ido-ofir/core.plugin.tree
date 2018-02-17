@@ -1,6 +1,6 @@
 {
     "name": "core.plugin.tree",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "a baobab tree",
     "main": "index.js",
     "scripts": {
