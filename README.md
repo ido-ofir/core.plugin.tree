@@ -13,7 +13,7 @@ core.set('a', 5);
 
 core.get('a'); // 5
 
-core.tree // a baobab selector
+core.tree // a baobab tree
 
 core.select('a') // a baobab cursor
 
