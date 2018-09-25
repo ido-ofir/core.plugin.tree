@@ -1,6 +1,6 @@
 # core.plugin.tree
 
-A <a href-"https://github.com/Yomguithereal/baobab">Baobab</a> tree.
+A <a href="https://github.com/Yomguithereal/baobab">Baobab</a> tree.
 
 ```js
 let core = new require('core.constructor')();
